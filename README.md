@@ -14,7 +14,7 @@ About
 Dylan Vadnais is a video game dev and writer, with their first published game to be released this December. With an honours degree in anthropology and certificate in archaeology, Dylan is inspired to explore human truths around the workd and throughout time through stories. Their passion for both playing video games and writing have culminated in diving head first into the world of video game development.
 They are on the lookout for other work that allows them to flex their narrative muscles and rely on their robust research background.
 
-My Work:
+My Work
 
 Ghost Town
 Ghost Town is an indie detective game set to be released December 2024. The game follows Ghost, a resident of a small Oregon mining town, as they try to discover the cause of their mysterious illness, and untimely demise.
