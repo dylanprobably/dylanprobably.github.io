@@ -4,7 +4,9 @@ Dylan Vadnais
 Video Game Writer and Anthropological Archaeologist
 University of Alberta
 
-dvadnais@ualberta.ca
+Email me at dvadnais@ualberta.ca
+
+Connect with me on LinkedIn!
 https://www.linkedin.com/in/dylan-vadnais-2b8398256/
 
 About
