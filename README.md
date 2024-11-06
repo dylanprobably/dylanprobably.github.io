@@ -19,8 +19,9 @@ They are on the lookout for other work that allows them to flex their narrative 
 My Work
 
 Ghost Town
+Roles: Writer, flats artist.
 Ghost Town is an indie detective game set to be released December 2024. The game follows Ghost, a resident of a small Oregon mining town, as they try to discover the cause of their mysterious illness, and untimely demise.
-Writer, flats artist.
+
 
 
 ![TEMP-Title-Screen](https://github.com/user-attachments/assets/751067c4-cd85-46a9-b4ca-10d2d1c542f2)
