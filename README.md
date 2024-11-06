@@ -1,4 +1,3 @@
----
 Dylan Vadnais
 (they/he)'
 
@@ -20,8 +19,6 @@ Ghost Town is an indie detective game set to be released December 2024. The game
 Writer, flats artist
 ![TEMP-Title-Screen](https://github.com/user-attachments/assets/751067c4-cd85-46a9-b4ca-10d2d1c542f2)
 ![lettertext](https://github.com/user-attachments/assets/5ec55c65-79a2-4a8b-976b-bc7a0475a762)
-
----
 
 
 # dylanprobably.github.io
