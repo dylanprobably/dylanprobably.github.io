@@ -1,5 +1,5 @@
 Dylan Vadnais
-(they/he)'
+(they/he)
 
 Video Game Writer and Anthropological Archaeologist
 University of Alberta
